@@ -1,4 +1,5 @@
 package ma.projet.graph.entities;
 
-public class TypeCompte {
+public enum TypeCompte {
+    COURANT, EPARGNE
 }

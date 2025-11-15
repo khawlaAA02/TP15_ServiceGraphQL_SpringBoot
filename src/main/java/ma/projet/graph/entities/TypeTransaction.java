@@ -1,4 +1,6 @@
 package ma.projet.graph.entities;
 
-public class TypeTransaction {
+public enum TypeTransaction {
+    DEPOT,
+    RETRAIT
 }
